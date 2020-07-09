@@ -6,4 +6,4 @@ Hosting meetups for the [Norwegian PowerShell User Group](https://www.meetup.com
 
 You can find me on [Twitter](https://twitter.com/roberthtweets), [Sessionize](https://sessionize.com/roberth-strand) and [untappd](https://untappd.com/user/RoberthDrinks)
 
-![Thornbjørn Kraftskall](https://github.com/norwegianpug/Thorbjorn/blob/master/img/Thorbjorn-riding-Transparent.png)
+<img src="https://github.com/norwegianpug/Thorbjorn/blob/master/img/Thorbjorn-riding-Transparent.png" height="300px">
