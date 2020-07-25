@@ -1,6 +1,6 @@
 ## Virtual man, working in a virtual world, doing virtual work 👨‍💻
 
-```powershell
+```
 PowerShell 7.0.3
 Copyright (c) Microsoft Corporation. All rights reserved.
 
