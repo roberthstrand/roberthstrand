@@ -20,10 +20,10 @@ _     _  _______  ___      _______  _______  __   __  _______  __
 Name       : Roberth Strand
 Employee   : Crayon AS
 Position   : Cloud Consultant
-FlavorText : Helping people with Azure at Crayon (crayon.com), and doing fun things with technology. Need a speaker or 
-             something for your project? Everything outside of work, I do for free, so just slip me a note somewhere. I am 
-             also hosting meetups for the Norwegian PowerShell User Group, upping the Norwegian shell-game. If you have a 
-             topic you want to talk about, reach out and we will set of an evening. You can find me on Twitter 
-             (twitter.com/roberthtweets), Sessionize (sessionize.com/roberth-strand) and untappd 
-             (untappd.com/user/RoberthDrinks)
+FlavorText : Helping people with Azure at Crayon (crayon.com), and doing fun things with technology. 
+             Need a speaker or something for your project? Everything outside of work, I do for free, 
+             so just slip me a note somewhere. I am also hosting meetups for the Norwegian PowerShell User Group,
+             upping the Norwegian shell-game. If you have a topic you want to talk about, reach out and we will 
+             set of an evening. You can find me on Twitter (twitter.com/roberthtweets), Sessionize (sessionize.com/roberth-strand) 
+             and untappd (untappd.com/user/RoberthDrinks)
   ```
