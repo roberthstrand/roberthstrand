@@ -19,7 +19,7 @@ _     _  _______  ___      _______  _______  __   __  _______  __
 
 Name       : Roberth Strand
 Employee   : Crayon AS
-Position   : Cloud Consultant
+Position   : Senior Cloud Consultant
 FlavorText : Helping people with Azure at Crayon (crayon.com), and doing fun things with technology. 
              Need a speaker or something for your project? Everything outside of work, I do for free, 
              so just slip me a note somewhere. I am also hosting meetups for the Norwegian PowerShell User Group,
