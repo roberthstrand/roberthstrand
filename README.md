@@ -1,29 +1,14 @@
-## Virtual man, working in a virtual world, doing virtual work 👨‍💻
+## Hello! 👨‍💻
 
-```
-PowerShell 7.0.3
-Copyright (c) Microsoft Corporation. All rights reserved.
+As my username might have given away, my name is Roberth. I'm an alright guy (biased opinion) that work making computers beep. Actually, scratch that... Beeping computers are usually a bad sign.
 
-https://aka.ms/powershell
-Type 'help' to get help.
+I work for [@Crayon](https://github.com/crayon) as a Cloud Architect, bringing DevOps and Cloud Native methods to the organization. Looking forward to being able to share more of this journey soon. In my spare time, I work a bunch with different groups in the Cloud Native Computing Foundation.
 
-PS /home/rs/dev> Get-GithubProfile | fl
+I also got awarded HashiCorp Ambassador 2021, for the work that I have done with Terraform and Vault.
 
-_     _  _______  ___      _______  _______  __   __  _______  __  
-| | _ | ||       ||   |    |       ||       ||  |_|  ||       ||  | 
-| || || ||    ___||   |    |       ||   _   ||       ||    ___||  | 
-|       ||   |___ |   |    |       ||  | |  ||       ||   |___ |  | 
-|       ||    ___||   |___ |      _||  |_|  ||       ||    ___||__| 
-|   _   ||   |___ |       ||     |_ |       || ||_|| ||   |___  __  
-|__| |__||_______||_______||_______||_______||_|   |_||_______||__|
-
-Name       : Roberth Strand
-Employee   : Crayon AS
-Position   : Cloud Architect
-FlavorText : Helping people with Azure at Crayon (crayon.com), and doing fun things with technology. 
-             Need a speaker or something for your project? Everything outside of work, I do for free, 
-             so just slip me a note somewhere. I am also hosting meetups for the Norwegian PowerShell User Group,
-             upping the Norwegian shell-game. If you have a topic you want to talk about, reach out and we will 
-             set of an evening. You can find me on Twitter (twitter.com/roberthtweets), 
-             Sessionize (sessionize.com/roberth-strand) and untappd (untappd.com/user/RoberthDrinks)
-  ```
+* [Blog](https://robstr.dev)
+* **Speaking:**
+  * [CNCF Speakers Bureau](https://www.cncf.io/speaker/roberth/)
+  * [Sessionize](https://sessionize.com/roberth-strand)
+* [Twitter](https://twitter.com/roberthtweets)
+* [LinkedIn](https://linkedin.com/in/roberthstrand)
