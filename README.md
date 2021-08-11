@@ -4,7 +4,7 @@ As my username might have given away, my name is Roberth. I'm an alright guy (bi
 
 I work for [@Crayon](https://github.com/crayon) as a Cloud Architect, bringing DevOps and Cloud Native methods to the organization. Looking forward to being able to share more of this journey soon. In my spare time, I work a bunch with different groups in the Cloud Native Computing Foundation.
 
-I also got awarded HashiCorp Ambassador 2021, for the work that I have done with Terraform and Vault.
+I am a Microsoft Azure MVP, and a HashiCorp Ambassador.
 
 * [Blog](https://robstr.dev)
 * **Speaking:**
