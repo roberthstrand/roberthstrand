@@ -7,8 +7,6 @@ I work for [@Crayon](https://github.com/crayon) as a Cloud Architect, bringing D
 I am a Microsoft Azure MVP, and a HashiCorp Ambassador.
 
 * [Blog](https://robstr.dev)
-* **Speaking:**
-  * [CNCF Speakers Bureau](https://www.cncf.io/speaker/roberth/)
-  * [Sessionize](https://sessionize.com/roberth-strand)
+* [Sessionize](https://sessionize.com/roberth-strand)
 * [Twitter](https://twitter.com/roberthtweets)
 * [LinkedIn](https://linkedin.com/in/roberthstrand)
