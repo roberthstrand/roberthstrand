@@ -1,10 +1,8 @@
 ## Hello! 👨‍💻
 
-As my username might have given away, my name is Roberth. I'm an alright guy (biased opinion) that work making computers beep. Actually, scratch that... Beeping computers are usually a bad sign.
+As my username might have given away, my name is Roberth. I'm an alright guy (biased opinion) that work making computers beep. Actually, scratch that... Beeping computers are usually a bad sign. I work at Sopra Steria, focusing on cloud native and platform engineering.
 
-I work at Amesto Fortytwo, building new and exciting platform engineering services. You can check us out at [amestofortytwo.com](https://amestofortytwo.com) or here on [GitHub](https://github.com/amestofortytwo).
-
-I have been awarded the titles of Microsoft Azure MVP, CNCF Ambassador, and HashiCorp Ambassador. If you need anyone to help out at a project, speak at a conference or user group, or a mentor, reach out to me on LinkedIn or my [email](mailto:roberth.strand+ghcontact@amesto.no).
+I have been awarded the titles of Microsoft Azure MVP, CNCF Ambassador, and HashiCorp Ambassador. If you need anyone to help out at a project, speak at a conference or user group, or a mentor, reach out to me on LinkedIn or my [email](mailto:roberth.strand+ghcontact@soprasteria.com).
 
 * [Blog](https://robstr.dev)
 * [Sessionize](https://sessionize.com/roberth-strand)
